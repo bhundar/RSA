@@ -1,6 +1,6 @@
 # RSA
 RSA (Rivest–Shamir–Adleman) is one of the worlds first public key cryptography which is used widely for data transmission 
-#How it Works:
+# How it Works:
 
 # 1. Setting up RSA:
 1. Choose two large, distinct primes p and q, let n = pq.
